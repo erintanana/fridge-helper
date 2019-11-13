@@ -1,0 +1,14 @@
+export const ADD_PRODUCT = require('../../assets/icons/icon-plus.png');
+export const SETTINGS = require('../../assets/icons/settings-icon.png');
+export const SEARCH_PRODUCT = require('../../assets/icons/search-product-icon.png');
+export const SORT_SEARCH = require('../../assets/icons/sort-options-icon.png');
+export const FAST_FOOD = require('../../assets/icons/category-fries-icon.png');
+export const DRINKS = require('../../assets/icons/category-drinks-icon.png');
+export const BERRIES = require('../../assets/icons/category-berries-icon.png');
+export const MILK_PRODUCTS = require('../../assets/icons/category-milk-icon.png');
+export const VEGETABLES = require('../../assets/icons/category-vegetables-icon.png');
+export const NAVIGATE_BACK = require('../../assets/icons/navigate-back.png');
+export const CAMERA = require('../../assets/icons/camera-icon.png');
+export const FOOD = require('../../assets/icons/food-icon.png');
+export const FRIDGE = require('../../assets/icons/fridge-icon.png');
+export const CALENDAR = require('../../assets/icons/calendar-icon.png');

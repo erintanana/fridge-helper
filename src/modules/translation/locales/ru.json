@@ -1,0 +1,34 @@
+{
+  "TITLE": "Freeze Helper",
+  "DASHBOARD": {
+    "SEARCH": "Поиск"
+  },
+  "ADD_PRODUCT": {
+    "NOTIFICATIONS": "Включить уведомления",
+    "DESCRIPTION": "Описание",
+    "NAME": "Название продукта",
+    "DATE": "Годен по ",
+    "CATEGORY": {
+      "PLACEHOLDER": "Категория",
+      "DRINKS": "Напитки",
+      "FAST_FOOD": "Фаст-фут",
+      "MILK_PRODUCTS": "Молочные продукты",
+      "BERRIES": "Ягоды",
+      "VEGETABLES": "Овощи"
+    },
+    "PLACE": {
+      "PLACEHOLDER": "Место хранения",
+      "FREEZE": "Холодильник",
+      "FREEZER": "Морозильная камера"
+    },
+    "WEIGHT": {
+      "PLACEHOLDER": "Количество",
+      "PLACEHOLDER_SELECT": "Мера",
+      "L": "л",
+      "GR": "г",
+      "KGR": "кг",
+      "ML": "мл",
+      "ITEM": "шт"
+    }
+  }
+}
